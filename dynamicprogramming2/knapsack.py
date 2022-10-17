@@ -1,3 +1,5 @@
+#TC: O(m*n) 
+#SC: O(m*n)
 def knapsack (val,wt,m,n):
     #creating a dp array and iterating the two dimensional tabular array
     #initialize all the first row and colums as zero
